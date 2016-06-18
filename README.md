@@ -1,17 +1,8 @@
-#Algoritmi e Strutture dati - Esercitazione 12: confronto dei metodi di
-ordinamento
+#Algoritmi e Strutture dati - Esercitazione 12: confronto dei metodi di ordinamento
 
 ##Università degli studi di Cagliari -  Facoltà di Scienze - Corso di laurea in Informatica
 
-L’obiettivo di questa esercitazione è quella di confrontare ivari tipi di ordinamento contando il numero di confronti e di scambi per diversi tipi di dati di input Valutare il tempo di esecuzione di ciascun algoritmo. Per l’esperimento utilizzare i seguenti ordinamenti e schemi di dati di input:
-
-Metodo di ordinamento 				Schema dei dati di input
-Ordinamento per selezione			 Ordinato
-Ordinamento per inserzione 		Quasi ordinato
-Ordinamento con heap 				Inversamente ordinato
-Quicksort 								Casuale
-Ordinamento per fusione
-Ordinamento con radice (con radice = 10)
+L’obiettivo di questa esercitazione è quella di confrontare ivari tipi di ordinamento contando il numero di confronti e di scambi per diversi tipi di dati di input Valutare il tempo di esecuzione di ciascun algoritmo.
 
 Per effettuare questo esperimento, dovreste:
 modificare ciascuna delle funzioni di ordinamento in modo
